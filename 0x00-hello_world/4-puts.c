@@ -1,9 +1,12 @@
-#!/bin/bash
-n - Entry point
+#include <stdio.h>
 
- * Return: Always 0 (sucess)
+/
+
+ * main - Entry point
  *
- *  */
+ *  * Return: Always 0 (sucess)
+ *
+ *   */
 
  int main(void)
 
