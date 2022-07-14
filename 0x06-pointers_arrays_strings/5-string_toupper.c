@@ -8,8 +8,8 @@
  * Return: String
  */
 
-char *string_toupper(char *p)
-{
+	char *string_toupper(char *p)
+	{
 
 		int i;
 		
@@ -21,7 +21,7 @@ char *string_toupper(char *p)
 				p[i] = p[i] - 32;
 			}
 
-		}
+	}
 
 	return (p);
 }
