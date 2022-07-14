@@ -7,11 +7,12 @@
  *
  * Return: String
  */
+
 char *string_toupper(char *p)
 {
 
 	int i;
-		
+
 	for (i = 0; p[i] != '\0'; i++)
 	{
 
