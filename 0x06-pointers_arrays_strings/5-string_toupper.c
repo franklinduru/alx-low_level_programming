@@ -7,7 +7,6 @@
  *
  * Return: String
  */
-
 char *string_toupper(char *p)
 {
 
